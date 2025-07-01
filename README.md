@@ -20,4 +20,4 @@ Implement and understand simple & multiple linear regression using real-world ho
 
 <br>
 
-> 🗓️ Part of internship at Elevate Labs (Day 3 Task)
+> 🗓️ Part of internship at Elevate Labs
