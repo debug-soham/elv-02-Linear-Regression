@@ -16,7 +16,7 @@ Implement and understand simple & multiple linear regression using real-world ho
 
 ## 📁 Files  
 - `California_Housing.csv` – Raw dataset  
-- `Linear_Regression_California.ipynb` – Notebook with implementation and evaluation
+- `Linear Regression.ipynb` – Notebook with implementation and evaluation
 
 <br>
 
